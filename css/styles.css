@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+}
+
+                        /* GLOBAL */
+
+#main-container {
+    margin-left: 200px;
+    margin-right: 200px;
+    height: auto;
+}
+
+.container {
+    background-color: darkgrey;
+
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+li {
+
+}
+
+                        /* HEADER */
+
+#main-header h1 {
+    font-size: 72px;
+    padding: 10px;
+    text-align: center;
+}
+
+                        /* NETWORK BUTTON */
+
+#network-button {
+    float: right;
+    text-align: right;
+    margin: 20px;
+    padding: 10px;
+    width: auto;
+    background-color: #ff4500;
+}
+
+                        /* NAV */
+
+#main-nav ul {
+    text-align: center;
+}
+
+#main-nav ul li {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
